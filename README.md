@@ -1,6 +1,6 @@
-# larpkit
+# LARP (Local ARP)
 
-A small, dependency-light toolkit for **authorized** layer-2 / LAN testing. Two scripts:
+**larpkit** — a small, dependency-light toolkit for **authorized** layer-2 / LAN testing. Two scripts:
 
 | Script | What it does |
 |---|---|
